@@ -32,7 +32,7 @@ CIAs and project showcases are included as well.
 
 ## 🔧 Setup
 
-Ensure you have Python 3.8+ and install dependencies:
+Ensure you have Python 3.10+ and install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -40,8 +40,8 @@ pip install -r requirements.txt
 
 ## 📚 Recommended Resources
 
-- Numerical Optimization – Nocedal & Wright
-- YouTube – Emmanuel Jesuyon Dansu
+- [Numerical Optimization – Nocedal & Wright](https://drive.google.com/file/d/1ZC0kM9sLOwlLfq2GGjItF7RAqi2TOiEB/view)
+- [YouTube – Emmanuel Jesuyon Dansu](https://www.youtube.com/watch?v=2nzEWwIx8kw&list=PLMxwp487ysbNcc7hUtpBCqh6d547Qacs1)
 - Udemy Course – Numerical Methods & Optimization in Python
 
 ## 🧪 Assessments (CIAs)
